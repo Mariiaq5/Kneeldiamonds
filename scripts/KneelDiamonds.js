@@ -34,7 +34,7 @@ export const KneelDiamonds = () => {
             </section>
             <section class="choices__styles options">
             <div>
-                <h2>Styles🐈‍⬛</h2>
+                <h2>Styles of Jewelry🐈‍⬛</h2>
                 ${JewelryStyles()}
                 </div>
             <img src="images/skelet3.png" class="skelete">
