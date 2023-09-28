@@ -15,7 +15,7 @@ document.addEventListener(
 
 export const KneelDiamonds = () => {
     return `
-        <h1>🖤Kneel Diamonds🖤</h1>
+        <h1>🤘🖤Kneel Diamonds🖤🤘</h1>
 
         <article class="choices">
             <section class="choices__metals options">
@@ -30,14 +30,14 @@ export const KneelDiamonds = () => {
                 <h2>Sizes🐈‍⬛</h2>
                 ${DiamondSizes()}
                 </div>
-            <img src="images/skelet.png" class="skelete">
+            <img src="images/skeletwhitebackground.png" class="skelete">
             </section>
             <section class="choices__styles options">
             <div>
-                <h2>Styles🐈‍⬛</h2>
+                <h2>Styles of Jewelry🐈‍⬛</h2>
                 ${JewelryStyles()}
                 </div>
-            <img src="images/skelet.png" class="skelete">
+            <img src="images/skelet3.png" class="skelete">
             </section>
         </article>
 
